@@ -1,0 +1,6 @@
+EquipmentName,DailyHirePrice,Status,HiredBy,HireDate,DueBackDate,ID
+1,1,hired,mike,1/1/2020,1/1/2021,3ccec198r2tzq,
+3,3,h,jig,123,456,3ccedx4xikpms,
+toy,50,available,n/a,n/a,n/a,3cceuzk8p89ax,
+car,50,available,jake glasson,24/03/1993,05/04/1993,3cck0znms5su5,
+1,2,Available,n/a,n/a,n/a,3cckcydoasv85,
